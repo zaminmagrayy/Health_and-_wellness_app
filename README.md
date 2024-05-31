@@ -1,4 +1,4 @@
-# flutter_application_2
+# Health and wellness app
 
 A new Flutter project.
 
